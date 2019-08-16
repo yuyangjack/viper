@@ -1,3 +1,3 @@
-module github.com/vbhledger-blockchain/vbhledger/vendor/github.com/spf13/viper
+module github.com/yuyangjack/viper
 
 go 1.12
